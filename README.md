@@ -5,3 +5,4 @@ Two Heaps
 Find median of streaming numbers
 Find median of sliding window of numbers
 Maximize Capital
+other questions
