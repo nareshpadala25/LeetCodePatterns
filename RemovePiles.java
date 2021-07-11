@@ -1,5 +1,6 @@
 // Microsoft | OA 2019 | Min Steps to Make Piles Equal Height
 // https://leetcode.com/discuss/interview-question/364618/Microsoft-or-OA-2019-or-Min-Steps-to-Make-Piles-Equal-Height
+import java.util.*;
 
 public class RemovePiles {
     public int minSteps(int[] piles){
